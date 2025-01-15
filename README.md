@@ -1,21 +1,91 @@
-# 💫 About Me:
-👋 About Me<br>Hello! I'm Karthik G, a passionate Information Technology student at Sathyabama Institute of Science and Technology, Chennai.<br> I love building innovative solutions and exploring the latest in technology, especially in the realms of AI, ML.<br><br>🌟 Skills: Python, SQL, Java<br>🔧 Tools: PyCharm, VS Code, Power BI, Microsoft Suite<br>💬 Languages: English, Tamil<br>
+# 👨‍💻 Karthik G
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_karthik_29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-g-aa92041ba) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gkarthik29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gkarthik29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkarthik29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gkarthik29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Email](https://img.shields.io/badge/Email-gk29042003@gmail.com-blue)](mailto:gk29042003@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/karthik-g-aa92041ba/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-karthikg29-blue)](https://www.kaggle.com/karthikg29)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gkarthik29&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+I'm **Karthik G**, a tech enthusiast with a strong foundation in **Python, SQL, and Java**. My hands-on experience in **data analysis**, **AI systems**, and **AR/VR projects** has equipped me to tackle real-world challenges. Passionate about innovation, I aim to contribute impactful solutions to the tech industry.  
+
+- 🎓 **B.Tech in Information Technology** (2021-2025)  
+  Sathyabama Institute of Science and Technology, Chennai  
+  **CGPA**: 8.0/10  
+
+- 🌍 **Location**: Chennai, India  
+- 📫 **Contact**: gk29042003@gmail.com  
+
+---
+
+## 💼 Professional Experience
+
+### 👩‍💻 **Project Intern**  
+**Hackwit Technology Private Limited, Chennai** (June 2023 - Jan 2023)  
+- Developed **Unity applications** for implementing **AR environments** on mobile platforms.  
+- Gained hands-on experience in **IoT** and created automated environments.  
+
+---
+
+## 🚀 Projects
+
+### ✈️ [Smart Drone Control and Charging](https://github.com/gkarthik29/Hand-Gesture-Controlled-Drone)  
+- Designed a **gesture-controlled drone** system with **secure wireless charging**, improving operational efficiency.  
+- The project meets the needs of industries like surveillance and industrial monitoring.  
+
+### 📜 [Invoice Analysis Using AI](https://github.com/gkarthik29/Analyze-invoice-or-payslip-using-gemini)  
+- Developed an AI-driven system to analyze invoices and payslips, leveraging **Google’s Gemini** for enhanced analysis.  
+
+### 🛒 [Sentiment Analysis of Amazon Product Reviews](https://github.com/gkarthik29/Sentiment-Analysis)  
+- Utilized **NLTK's Sentiment Analyzer** to classify reviews and improved model performance through advanced techniques.  
+
+### 💳 [AR Visiting Card](https://github.com/gkarthik29/ARVR-visiting-card)  
+- Built a **Unity-based application** for AR-enhanced visiting cards, providing interactive user experiences.  
+- Integrated **Vuforia SDK** for smooth image tracking and visualization on Android platforms.  
+
+---
+
+## 💻 Tech Skills
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-blue) ![SQL](https://img.shields.io/badge/SQL-orange)
+
+**Frameworks & Libraries**  
+![OpenCV](https://img.shields.io/badge/OpenCV-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-purple)  
+![Pandas](https://img.shields.io/badge/Pandas-lightblue) ![Numpy](https://img.shields.io/badge/Numpy-blue)
+
+**Tools**  
+![Power BI](https://img.shields.io/badge/PowerBI-yellow) ![Excel](https://img.shields.io/badge/Excel-green)  
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+
+**Development Platforms**  
+![Unity](https://img.shields.io/badge/Unity-black) ![PyCharm](https://img.shields.io/badge/PyCharm-green)
+
+---
+
+## 🎖️ Achievements
+
+- 🏆 Recognized for innovative solutions in **IoT** during internship at Hackwit Technologies.  
+- 💡 Successfully implemented AR-based systems for Android platforms.  
+
+---
+
+## 🛠 Certifications
+
+- **Programming in Java** - NPTEL (Oct 2023)  
+- **Oracle Cloud Infrastructure 2023** - Oracle (April 2024)  
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkarthik29&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gkarthik29&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkarthik29&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!  
+
+Feel free to explore my projects or get in touch via [Email](mailto:gk29042003@gmail.com) or [LinkedIn](https://www.linkedin.com/in/karthik-g-aa92041ba/). I’m excited to collaborate on innovative ideas!  
+
